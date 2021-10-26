@@ -3,7 +3,7 @@ I am currently learning to use OpenGL graphics in C.
 
 My code has a tendency to contain extremely subtle, arcane errors that take ages to find and fix.
 
-(It's usually up to /egkoppel and /hiornso to spot the tiny mistakes and save the day!)
+(It's usually up to /egkoppel and /hiornso to spot the tiny mistakes and **save the day!**)
 <!--
 **bluewhale64/bluewhale64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
