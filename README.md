@@ -1,5 +1,5 @@
-### Hello there 👋
-I am currently learning to use OpenGL graphics in C.
+### Greetings
+I am currently using rudimentary OpenGL Graphics in /C(++)?/.
 
 My code has a tendency to contain extremely subtle, arcane errors that take ages to find and fix.
 
