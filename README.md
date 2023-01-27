@@ -1,7 +1,7 @@
 ### Greetings
 I am currently using rudimentary OpenGL Graphics in /C(++)?/.
 
-My code has a tendency to contain extremely subtle, arcane errors that take ages to find and fix.
+My code has a tendency to contain subtle, arcane aberrations that take aeons to locate and amend.
 
 <!--
 **bluewhale64/bluewhale64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
