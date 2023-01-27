@@ -1,5 +1,5 @@
 ### Greetings
-I am currently using rudimentary OpenGL Graphics in /C(\+\+)?/.
+I am currently using rudimentary OpenGL Graphics in /C(\\+\\+)?/.
 
 My code has a tendency to contain subtle, arcane aberrations that take aeons to locate and amend.
 
